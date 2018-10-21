@@ -1,7 +1,7 @@
 #ifndef _YAVL_H_
 #define _YAVL_H_
 
-#include "yaml.h"
+#include <yaml-cpp/yaml.h>
 #include <vector>
 #include <string>
 #include <ostream>
