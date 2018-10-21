@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <assert.h>
-#include "yaml.h"
+#include "yaml-cpp/yaml.h"
 #include "yavl.h"
 
 using namespace std;
